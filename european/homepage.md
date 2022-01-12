@@ -2,7 +2,7 @@
 
 ## Greek  
 #### [Greek - Omonia](greek/omonia.md)
-#### [Greek - Something Greek Relateed](greek/smthgreek.md)
+#### [Greek - Something Greek Related](greek/smthgreek.md)
 
 ## Mediterranean  
 #### [Mediterranean - The Family Store](mediterranean/family.md)
