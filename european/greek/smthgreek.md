@@ -23,4 +23,5 @@ Bowser: Yes! YES!! Witness my true power!!
 **Then bowser grows the size of 500 football fields and then turns smaller when you get into the fight**
 
 [Return to homepage](../homepage.md)
+[Start Over](../../home.md)
 
