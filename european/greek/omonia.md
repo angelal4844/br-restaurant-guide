@@ -12,5 +12,5 @@ Bowser: Its time for me to REALLY shake things up!
 Bowser: You wanted a fight? Well, guess what? WISH GRANTED!  
 Bowser: If you can make it all the way to this gate, I'll give you a one-on-one meeting...with your DOOM!  
 
-[The next boss fight](smthgreek.md)
-[Start Over](../../home.md)
+[The next boss fight](smthgreek.md)  
+[Start Over](../../home.md)  
