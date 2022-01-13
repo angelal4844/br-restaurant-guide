@@ -1,7 +1,7 @@
-# Bay Ridge Resturant Guide 
+# Bay Ridge Resturant Guide
 ## European --> Mediterranean
 ---
-Select a resturant: 
+Select a resturant:
 ## [Tanoreen](https://tanoreen.com/)
 ---
 [Back to European](homepage.md)
