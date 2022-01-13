@@ -4,5 +4,4 @@
 Select a resturant:
 ## [Tanoreen](https://tanoreen.com/)
 ---
-[Back to European](homepage.md)
-[Start Over](../home.md)
+[Start Over](../../home.md)
